@@ -1,0 +1,10 @@
+# CSC110Y1F: Python libraries that will be used for this project
+
+# Testing and code checking
+python-ta~=2.1.1
+pytest~=6.2.5
+
+# Graphics and data visualization
+plotly~=5.3.1
+pandas~=1.3.5
+matplotlib~= 3.5.1
