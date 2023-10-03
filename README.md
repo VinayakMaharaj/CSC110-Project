@@ -1,4 +1,3 @@
-
  CSC110 Project
     The pandemic saw a massive decrease in the profit margins of many major corporations and the only way that the corporations dealt with that was to fire the non-essential employees and underpay the remaining. This was the case with the majority of the population of Canada during the peak of the pandemic, either out of a job or severely underpaid in their current one.
  
